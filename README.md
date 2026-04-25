@@ -6,10 +6,10 @@ A responsive and modern **personal portfolio website** built using **HTML and CS
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](#)
-*(Add your deployed link here — GitHub Pages / Netlify)*
-
----
+<img width="1909" height="909" alt="Image" src="https://github.com/user-attachments/assets/72819c96-ae5d-461c-a1dc-f8a4742181c1" />
+<img width="1916" height="880" alt="Image" src="https://github.com/user-attachments/assets/8f0b6e74-3920-44c0-bff0-7e85c7a6e636" />
+<img width="1878" height="716" alt="Image" src="https://github.com/user-attachments/assets/e9e18516-8fa8-4729-81ed-9ac6eabf260e" />
+<img width="1908" height="405" alt="Image" src="https://github.com/user-attachments/assets/116f08cf-9914-4710-9bb5-d33bb411d7c1" />
 
 ## 📌 Features
 
